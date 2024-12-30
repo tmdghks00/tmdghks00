@@ -1,23 +1,31 @@
 # OH SEUNG HWAN😄
 
 <h3>💪🏻Tech Stack💪🏻</h3>
-<div align="left">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+
+&nbsp;<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<br>
+&nbsp;<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+<br>
+&nbsp;<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<hr>
+
+<h3>🔅My GitHub Status🔅</h3>
+<div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdghks00&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/tmdghks00)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmdghks00&layout=compact)
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <!-- Baekjoon Tier -->
-    <div style="flex: 1; text-align: left;">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wxtq12" />
-    </div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wxtq12)](https://solved.ac/wxtq12/)
 
-    <!-- GitHub Stats -->
-    <div style="flex: 2; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api?username=tmdghks00&bg_color=180,000000,&title_color=000000&text_color=000000" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdghks00&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
-    </div>
-</div>
-
+<hr>
